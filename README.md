@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Joseph Velasquez
+
+## About Me
+
+##
 
 <!--
 **JoeV1026/JoeV1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

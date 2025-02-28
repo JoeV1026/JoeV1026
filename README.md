@@ -6,17 +6,20 @@ I love immersing myself in challenging projects, applying new concepts, and brin
 
 I strongly believe in collaboration and am always open to brainstorming ideas and building impactful projects with like-minded individuals. If you're interested in working together or discussing an exciting concept, feel free to reach out. I'd love to connect!
 
-<!--
-**JoeV1026/JoeV1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Private Repositories
 
-Here are some ideas to get you started:
+For security reasons, all my school-related work is stored in private repositories. If you're interested in viewing my coursework, feel free to reach out, and I’d be happy to invite you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+List of Classes:
+
+Current: 
+  CS 2200 – Systems & Networks
+  CS 3600 - Artifical Intelligence
+  CS 3510 - Designing & Analyzing Algorithms
+Past:
+  CS 2110 - Computer Architecture and Low/mid Level Programming
+  CS 1332 - Data Structures & Algorithms
+  CS 1331 - Object Oriented Programming
+  CS 2340 - Project Based Objects and Design
+  CS 2050 - Discrete Math
+  CS 3001 - Computing & Socitey 

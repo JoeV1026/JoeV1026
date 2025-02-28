@@ -10,16 +10,23 @@ Private Repositories
 
 For security reasons, all my school-related work is stored in private repositories. If you're interested in viewing my coursework, feel free to reach out, and I’d be happy to invite you.
 
-List of Classes:
+## 📂 Private Repositories
 
-Current: 
-  CS 2200 – Systems & Networks
-  CS 3600 - Artifical Intelligence
-  CS 3510 - Designing & Analyzing Algorithms
-Past:
-  CS 2110 - Computer Architecture and Low/mid Level Programming
-  CS 1332 - Data Structures & Algorithms
-  CS 1331 - Object Oriented Programming
-  CS 2340 - Project Based Objects and Design
-  CS 2050 - Discrete Math
-  CS 3001 - Computing & Socitey 
+For security reasons, all my school-related work is stored in **private repositories**. If you're interested in viewing my coursework, feel free to reach out, and I’d be happy to invite you.
+
+### 📚 List of Classes:
+
+#### **Current:**  
+- CS 2200 – Systems & Networks  
+- CS 3600 – Artificial Intelligence  
+- CS 3510 – Designing & Analyzing Algorithms  
+
+#### **Past:**  
+- CS 2110 – Computer Architecture and Low/Mid-Level Programming  
+- CS 1332 – Data Structures & Algorithms  
+- CS 1331 – Object-Oriented Programming  
+- CS 2340 – Project-Based Objects and Design  
+- CS 2050 – Discrete Math  
+- CS 3001 – Computing & Society  
+
+---

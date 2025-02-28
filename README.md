@@ -6,10 +6,6 @@ I love immersing myself in challenging projects, applying new concepts, and brin
 
 I strongly believe in collaboration and am always open to brainstorming ideas and building impactful projects with like-minded individuals. If you're interested in working together or discussing an exciting concept, feel free to reach out. I'd love to connect!
 
-Private Repositories
-
-For security reasons, all my school-related work is stored in private repositories. If you're interested in viewing my coursework, feel free to reach out, and I’d be happy to invite you.
-
 ## 📂 Private Repositories
 
 For security reasons, all my school-related work is stored in **private repositories**. If you're interested in viewing my coursework, feel free to reach out, and I’d be happy to invite you.

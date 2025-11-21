@@ -1,6 +1,6 @@
 ## Hi, I'm Joseph Velasquez👋
 
-I'm a Junior at Georgia Tech studying Computer Science with a deep passion for AI, research, and software engineering. Originally from New York, I moved to Georgia to pursue exciting research opportunities and further develop my technical skills. I have a relentless curiosity that drives me to explore new technologies, solve complex problems, and constantly seek ways to innovate.
+I'm a Senior at Georgia Tech studying Computer Science with a deep passion for AI, research, and software engineering. Originally from New York, I moved to Georgia to pursue exciting research opportunities and further develop my technical skills. I have a relentless curiosity that drives me to explore new technologies, solve complex problems, and constantly seek ways to innovate.
 
 I love immersing myself in challenging projects, applying new concepts, and bringing creative ideas to life. Whether it's working on AI-driven applications or optimizing systems, I thrive on turning abstract ideas into real-world solutions. Beyond academics, I enjoy exploring the city, making new friends, and playing the guitar.
 
@@ -13,9 +13,9 @@ For security reasons, all my school-related work is stored in **private reposito
 ### 📚 List of Classes:
 
 #### **Current:**  
-- CS 2200 – Systems & Networks  
-- CS 3600 – Artificial Intelligence  
-- CS 3510 – Designing & Analyzing Algorithms  
+- CS 2200 – Machine Learning 
+- CS 3600 – Applied Machine Learning  
+- CS 3510 – Prototyping Intelligent Devices 
 
 #### **Past:**  
 - CS 2110 – Computer Architecture and Low/Mid-Level Programming  
@@ -23,6 +23,9 @@ For security reasons, all my school-related work is stored in **private reposito
 - CS 1331 – Object-Oriented Programming  
 - CS 2340 – Project-Based Objects and Design  
 - CS 2050 – Discrete Math  
-- CS 3001 – Computing & Society  
+- CS 3001 – Computing & Society
+- CS 2200 – Systems & Networks  
+- CS 3600 – Artificial Intelligence  
+- CS 3510 – Designing & Analyzing Algorithms  
 
 ---
